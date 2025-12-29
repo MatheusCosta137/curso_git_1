@@ -1,0 +1,2 @@
+Testando atualizacao do curso git 
+git clone
